@@ -10,6 +10,6 @@ This app implements JS Module Patterns, State Change, WebPack and Babeland Mater
 - **HTML5/CSS**
   - Materialized CSS
 - **Vanilla JavaScript :**
-  - Module patternxzxz\
+  - Module pattern
   - Webpack and Babel
   - DOM Manipulation
