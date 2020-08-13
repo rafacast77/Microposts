@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "tittle": "Having fun in London",
+      "body": "I am currently in London Airport finishing this app, and I also met a new friend from 'Romania'",
+      "id": 3
+    },
+    {
+      "tittle": "Not Sleeping?",
+      "body": "So apparently we are not sleeping today",
+      "id": 4
+    }
+  ]
+}
